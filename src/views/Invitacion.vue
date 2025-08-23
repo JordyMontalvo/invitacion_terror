@@ -65,7 +65,7 @@
           
           <div class="response-card no-card" @click="respond('no')">
             <div class="response-icon">😱</div>
-            <h3>¡DEMASIADO TERROR!</h3>
+            <h3>¡DEMASIADO TERROR!!</h3>
             <p>Prefiero algo más romántico y menos aterrador</p>
             <div class="response-effect">💔</div>
           </div>
