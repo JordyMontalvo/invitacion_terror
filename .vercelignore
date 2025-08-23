@@ -1,0 +1,15 @@
+node_modules
+.git
+.gitignore
+README.md
+INSTRUCCIONES.md
+MENSAJE_ESPECIAL.md
+INVITACION_ESPECIAL.md
+vercel-simple.json
+build-vercel.sh
+start.sh
+.babelrc
+webpack.config.js
+src/
+*.log
+.DS_Store 
