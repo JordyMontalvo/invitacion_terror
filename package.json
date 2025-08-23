@@ -8,7 +8,7 @@
     "dev": "nodemon server.js",
     "build": "webpack --mode production",
     "build:dev": "webpack --mode development --watch",
-    "vercel-build": "npm run build"
+    "vercel-build": "webpack --config webpack.vercel.js --mode production"
   },
   "dependencies": {
     "express": "^4.18.2",
